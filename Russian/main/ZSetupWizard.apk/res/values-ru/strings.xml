@@ -29,7 +29,7 @@
     <string name="wellcome_nubia">Вас приветствует</string>
     <string name="wellcome_nubia_style2">Благодарим Вас за использование смартфона nubia!</string>
     <string name="zsetupwizard_phone">телефон</string>
-    <string name="zsetupwizard_show_info">Нажмите "Завершить" для окончания настройки.</string>
+    <string name="zsetupwizard_show_info">Завершить начальную настройку смартфона...</string>
     <string name="start">Завершить</string>
     <string name="set_data_and_time">Дата и время</string>
     <string name="set_date_and_time">Дата и время</string>
