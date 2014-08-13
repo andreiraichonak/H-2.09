@@ -172,7 +172,7 @@
     <string name="traffic_used_above_quota_title">Ежемесячный расход достиг предела</string>
     <string name="traffic_used_above_quota_msg">Ежемесячный расход достиг предела, отключить передачу данных?</string>
     <string name="traffic_used_above_quota_msg_auto_close">Передача данных была отключена автоматически, так как ежемесячный расход достиг предела. Вы хотите включить его снова?</string>
-    <string name="app_ops_module">Разрешения</string>
+    <string name="app_ops_module">Права</string>
     <string name="app_ops_permission_summary">Разрешения %d</string>
     <string name="app_ops_text_version">Версия</string>
     <string name="app_ops_authority_app_summary">(%d)</string>
@@ -298,7 +298,7 @@
     <string name="remoteguard_acknown_your_name_by_sendsms">Отправить это сообщение при подозрении, что телефон украден или потерян.</string>
     <string name="remoteguard_settingguidecontent3i">Не верный номер!</string>
     <string name="remoteguard_pls_input_old_password">Введите старый пароль</string>
-    <string name="module_harass_intercept_name">Перехватчик надоедливых звонков</string>
+    <string name="module_harass_intercept_name">Перехват звонков</string>
     <string name="harassintercept_label_sms">SMS</string>
     <string name="harassintercept_label_call">Вызов</string>
     <string name="harassintercept_label_black_list">Черный список</string>
@@ -390,11 +390,11 @@
     <string name="main_home_fragment_title">Фрагмент</string>
     <string name="main_moduleitem_img_des">модуль</string>
     <string name="main_phoneMaster">Защита nubia</string>
-    <string name="one_key_opt">Oптимизация одной кнопкой</string>
+    <string name="one_key_opt">Oптимизация</string>
     <string name="scanning">Сканирую, ждите…</string>
     <string name="optscore">%1$d баллов</string>
     <string name="score_rank">Ваш рейтинг в мире поднят на _</string>
-    <string name="score_unit">Угичтожено</string>
+    <string name="score_unit">Уничтожено</string>
     <string name="score_people">% пользователей</string>
     <string name="score_congra">Поздравления</string>
     <string name="app_ops_running">Работающие</string>
