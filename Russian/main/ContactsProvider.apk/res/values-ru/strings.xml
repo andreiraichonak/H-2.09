@@ -19,4 +19,12 @@
     <string name="debug_dump_email_sender_picker">Выберите приложение для отправки файла</string>
     <string name="debug_dump_email_subject">К сообщению добавлена база данных контактов</string>
     <string name="debug_dump_email_body">Будьте внимательны: в приложенном файле находится база данных с моими контактами.</string>
+	<string name="nubia_service_name">Сервис nubia</string>
+    <string name="nubia_service_number">4007006600</string>
+    <string name="nubia_service_number_label">горячая линия</string>
+    <string name="nubia_service_im">nubia-сервис</string>
+    <string name="nubia_service_im_label">микро-сообщение</string>
+    <string name="nubia_service_email">service@nubia.cn</string>
+    <string name="nubia_service_email_label">email</string>
+    <string name="nubia_service_website">www.nubia.cn</string>
 </resources>

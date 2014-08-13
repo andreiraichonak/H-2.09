@@ -2281,7 +2281,7 @@ It не стирать :
     <string name="nb_lockpassword_choose_your_password_header">Введите свой пароль</string>
     <string name="nb_lockpassword_confirm_your_password_header">Введите свой пароль снова</string>
     <string name="nb_lockpassword_confirm_your_pin_header">Введите свой пароль снова</string>
-    <string name="security_and_location_settings_title">Безопасность &amp; Местоположение</string>
+    <string name="security_and_location_settings_title">Безопасность и местоположение</string>
     <string name="location_category_title">Местоположение</string>
     <string name="location_preference_title">Служба местоположения</string>
     <string name="install_settings">Мастер установки</string>

@@ -83,6 +83,7 @@
     <string name="folder_cling_move_item">Чтобы переместить значок приложения, нажмите на него и удерживайте.</string>
     <string name="folder_cling_create_folder">Чтобы создать папку на главном экране, перенесите одно приложение на другое.</string>
     <string name="cling_dismiss">ОК</string>
+	<string name="dummy_custom_cling_error_message">Ошибка: пользовательский макет рабочего стола принят,но не был перезаписан</string>
     <string name="folder_opened">Папка открыта, %1$d x %2$d</string>
     <string name="folder_tap_to_close">Нажмите, чтобы закрыть папку</string>
     <string name="folder_tap_to_rename">Нажмите, чтобы подтвердить переименование</string>
@@ -93,4 +94,8 @@
     <string name="custom_workspace_cling_description_1" />
     <string name="custom_workspace_cling_title_2" />
     <string name="custom_workspace_cling_description_2" />
+	<string name="menu_edit">Режим редактирования</string>
+    <string name="folder_out_of_space">Нет места в данной папке.</string>
+    <string name="folder_accessoriess">Aксессуары</string>
+    <string name="folder_recommends">Рекомендации</string>
 </resources>

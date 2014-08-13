@@ -155,7 +155,7 @@
     <string-array name="response_labels1">
         <item>Не ответили</item>
         <item>Да</item>
-        <item>Может быть</item>
+        <item>Возможно</item>
         <item>Нет</item>
     </string-array>
     <string-array name="delete_repeating_labels">
@@ -172,11 +172,56 @@
         <item>Все мероприятия в серии</item>
     </string-array>
     <string-array name="buttons_list">
-        <item>Today</item>
+        <item>Сегодня</item>
         <item>День</item>
         <item>Неделя</item>
         <item>Месяц</item>
         <item>Повестка дня</item>
+    </string-array>
+	<string-array name="weather_table">
+        <item>Солнечно</item>
+        <item>Облачно</item>
+        <item>Ясноt</item>
+        <item>Осадки</item>
+        <item>Ливни</item>
+        <item>Ливень с градом</item>
+        <item>Мокрый снег</item>
+        <item>Слабый дождь</item>
+        <item>Умеренный дождь</item>
+        <item>Сильный дождь</item>
+        <item>Проливной дождь</item>
+        <item>Сильный ливень</item>
+        <item>Очень сильный ливень</item>
+        <item>Снег</item>
+        <item>Легкий снег</item>
+        <item>Умеренный снег</item>
+        <item>Сильный снег</item>
+        <item>Метель</item>
+        <item>Туман</item>
+        <item>Ледяной дождь</item>
+        <item>Пыльная буря</item>
+        <item>Умеренный дождь</item>
+        <item>Дождь - от умеренного к сильному</item>
+        <item>Усиливающийся дождь - от сильного к проливному</item>
+        <item>Возможны ливни</item>
+        <item>Возможны проливные дожди</item>
+        <item>Снег - от слабого к умеренному</item>
+        <item>Снег - от умеренного к сильному</item>
+        <item>Снег - от сильного до метели</item>
+        <item>Пыльная взвесь</item>
+        <item>Песчаная буря</item>
+        <item>Сильная песчаная буря</item>
+        <item>Шквал</item>
+        <item>Tорнадо</item>
+        <item>Лёгкий снег</item>
+        <item>Туман</item>
+    </string-array>
+    <string-array name="more_menu_item">
+        <item>Установить дату</item>
+        <item>Обновить</item>
+        <item>Поиск</item>
+        <item>Календарь на экран</item>
+        <item>Настройки</item>
     </string-array>
     <string-array name="quick_response_defaults">
         <item>Задерживаюсь на пару минут.</item>
@@ -188,6 +233,11 @@
         <item>Всегда</item>
         <item>Только в режиме без звука</item>
         <item>Никогда</item>
+    </string-array>
+	<string-array name="prefValues_alerts_vibrateWhen">
+        <item>всегда</item>
+        <item>тишина</item>
+        <item>никогда</item>
     </string-array>
     <string-array name="magic_ring_items">
         <item>по умолчанию</item>

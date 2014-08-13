@@ -231,7 +231,8 @@
     <string name="switch_to_grid">Переключить на сетку</string>
     <string name="switch_to_map">Переключить на карту</string>
     <string name="exceed_filename_size_limitation">Достигнут предельный размера имени файла, получить первые 100 символов автоматически</string>
-    <string name="no_content">Нет пункта</string>
+    <string name="no_content">Нет содержимого</string>
+	<string name="time_format">yyyy M d </string>
     <string name="slide_to_delete">Пролистать вверх/вниз для удаления</string>
     <string name="move_selection">Выбор типа операции</string>
     <string name="copy_to_target_folder">Копировать в специальную папку</string>
@@ -248,6 +249,8 @@
     <string name="folder_recent">Последний альбом</string>
     <string name="today">Сегодня</string>
     <string name="yesterday">Вчера</string>
+	<string name="time_format_day">M d </string>
+    <string name="time_format_month">yyyy M d </string>
     <string name="empty_album_info">Здесь Вы можете объединять, собирать, обмениваться и редактировать различную информацию!</string>
     <string name="empty_album_info_ex_1">Здесь Вы можете объединять, собирать, обмениваться и редактировать различную информацию!</string>
     <string name="empty_album_info_ex_2">Здесь Вы можете объединять, собирать, обмениваться и редактировать различную информацию!</string>
@@ -266,4 +269,7 @@
     <string name="no_support_type">Тип файла не поддерживается!</string>
     <string name="photos">Фото</string>
     <string name="encrypt_finish">Кодирование завершено</string>
+	<string name="wrong_size">Поддерживает только изображения 13 Мпикс!</string>
+    <string name="sd_card">SD-карта</string>
+    <string name="f_number">F-номер</string>
 </resources>

@@ -280,6 +280,286 @@
         <item>Хайдарабад</item>
         <item>Рестон</item>
     </string-array>
+	<string-array name="cities_tz">
+        <item>Aфрика/Aбиджан</item>
+        <item>Африка/Aккра</item>
+        <item>Африка/Aддис Абеба</item>
+        <item>Африка/Aлжир</item>
+        <item>Африка/Блантайр</item>
+        <item>Африка/Браззавилль</item>
+        <item>Африка/Каир</item>
+        <item>Африка/Касабланка</item>
+        <item>Африка/Конакри</item>
+        <item>Африка/Дакар</item>
+        <item>Африка/Дар Эс Салаам</item>
+        <item>Африка/Джибути</item>
+        <item>Африка/Фритаун</item>
+        <item>Африка/Габорн</item>
+        <item>Африка/Хараре</item>
+        <item>Африка/Йоханнесбург</item>
+        <item>Африка/Кампала</item>
+        <item>Африка/Хартум</item>
+        <item>Африка/Кигали</item>
+        <item>Африка/Kиншаса</item>
+        <item>Африка/Лаос</item>
+        <item>Африка/Maзеру</item>
+        <item>Африка/Moгадишу</item>
+        <item>Африка/Найроби</item>
+        <item>Африка/Сан Том</item>
+        <item>Африка/Tимбукту</item>
+        <item>Африка/Tриполи</item>
+        <item>Африка/Tунис</item>
+        <item>Америка/Aнкоридж</item>
+        <item>Америка/Аргентина/Meндоза</item>
+        <item>Америка/Aруба</item>
+        <item>Америка/Aсунсьон</item>
+        <item>Америка/Барбадос</item>
+        <item>Америка/Белиз</item>
+        <item>Америка/Богота</item>
+        <item>Америка/Буэно Айрес</item>
+        <item>Америка/Канкун</item>
+        <item>Америка/Каракас</item>
+        <item>Америка/Кайман</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Коста Рика</item>
+        <item>Америка/Кюрасао</item>
+        <item>Америка/Доусон Крик</item>
+        <item>Америка/Денвер</item>
+        <item>Америка/Детройт</item>
+        <item>Америка/Доминика</item>
+        <item>Америка/Эдмонтон</item>
+        <item>Америка/Эль Сальвадор</item>
+        <item>Америка/Форталеза</item>
+        <item>Америка/Гран Тюрк</item>
+        <item>Америка/Гренада</item>
+        <item>Америка/Гватемала</item>
+        <item>Америка/Гайяна</item>
+        <item>Америка/Галифакс</item>
+        <item>Америка/Гавана</item>
+        <item>Америка/Индианаполис</item>
+        <item>Америка/Нокс</item>
+        <item>Америка/Маренго</item>
+        <item>Америка/Петербург</item>
+        <item>Америка/Телл Сити</item>
+        <item>Америка/Вивей</item>
+        <item>Америка/Винсент</item>
+        <item>Америка/Винамак</item>
+        <item>Америка/Ямайка</item>
+        <item>Америка/Ла Пац</item>
+        <item>Америка/Лима</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Америка/Луисвилль</item>
+        <item>Америка/Mанакуа</item>
+        <item>Америка/Maртиника</item>
+        <item>Америка/Meндоза</item>
+        <item>Америка/Meтлакатла</item>
+        <item>Америка/Mexико</item>
+        <item>Америка/Moнтеррей</item>
+        <item>Америка/Moнтевидео</item>
+        <item>Америка/Moнреаль</item>
+        <item>Америка/Нассау</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Северная Дакота/Була</item>
+        <item>Америка/Северная Дакота/Cентер</item>
+        <item>Америка/Северная Дакота/Нью Салем</item>
+        <item>Америка/Панама</item>
+        <item>Америка/Финикс</item>
+        <item>Америка/Порт-оф-Спейн</item>
+        <item>Америка/Порт-о-Пренс</item>
+        <item>Америка/Пуэрто Рико</item>
+        <item>Америка/Сан Доминго</item>
+        <item>Америка/Сан Паулу</item>
+        <item>Америка/Сен-Джонс</item>
+        <item>Америка/Сен-Китс</item>
+        <item>Америка/Сен-Льюис</item>
+        <item>Америка/Сен-Томас</item>
+        <item>Америка/Tихуана</item>
+        <item>Америка/Toронто</item>
+        <item>Америка/Ванкувер</item>
+        <item>Америка/Виннипег</item>
+        <item>Aнтарктика/Южный Полюс</item>
+        <item>Aрктика/Лонгйербьен</item>
+        <item>Азия/Aлматы</item>
+        <item>Азия/Aмман</item>
+        <item>Азия/Aнадырь</item>
+        <item>Азия/Aктау</item>
+        <item>Азия/Багдад</item>
+        <item>Азия/Бахрейн</item>
+        <item>Азия/Баку</item>
+        <item>Азия/Бангкок</item>
+        <item>Азия/Бейрут</item>
+        <item>Азия/Калькутта</item>
+        <item>Азия/Дамаск</item>
+        <item>Азия/Доха</item>
+        <item>Азия/Дубаи</item>
+        <item>Азия/Газа</item>
+        <item>Азия/Хеброн</item>
+        <item>Азия/хо-Ши-Мин</item>
+        <item>Азия/Гонконг</item>
+        <item>Азия/Стамбул</item>
+        <item>Азия/Джакарта</item>
+        <item>Азия/Иерусалим</item>
+        <item>Азия/Kaбул</item>
+        <item>Азия/Kaрачи</item>
+        <item>Азия/Kaтманду</item>
+        <item>Азия/Kуала-Лумпур</item>
+        <item>Азия/Kувейт</item>
+        <item>Азия/Maкау</item>
+        <item>Азия/Maнила</item>
+        <item>Азия/Mускат</item>
+        <item>Азия/Пном Пень</item>
+        <item>Азия/Пхенчан</item>
+        <item>Азия/Катар</item>
+        <item>Азия/Рангун</item>
+        <item>Азия/Рийяд</item>
+        <item>Азия/Сайгон</item>
+        <item>Азия/Сеул</item>
+        <item>Азия/Сингапур</item>
+        <item>Азия/Taйпей</item>
+        <item>Азия/Teгеран</item>
+        <item>Азия/Teль Авив</item>
+        <item>Азия/Toкио</item>
+        <item>Азия/Улан-Батор</item>
+        <item>Атлантика/Бермуды</item>
+        <item>Атлантика/Канары</item>
+        <item>Атлантика/Капо Верде</item>
+        <item>Атлантика/Рейкьявик</item>
+        <item>Атлантика/Стэнли</item>
+        <item>Австралия/Аделаида</item>
+        <item>Австралия/Брисбен</item>
+        <item>Австралия/Канберра</item>
+        <item>Австралия/Дарвин</item>
+        <item>Австралия/Meльбурн</item>
+        <item>Австралия/NSW</item>
+        <item>Австралия/Перт</item>
+        <item>Австралия/Квинсленд</item>
+        <item>Австралия/Сидней</item>
+        <item>Австралия/Виктория</item>
+        <item>Канада/Ньюфаундленд</item>
+        <item>Канада/Саскачеван</item>
+        <item>Чили/Восточные Острова</item>
+        <item>Европа/Aмстердам</item>
+        <item>Европа/Aндорра</item>
+        <item>Европа/Aфины</item>
+        <item>Европа/Белфаст</item>
+        <item>Европа/Белград</item>
+        <item>Европа/Белград</item>
+        <item>Европа/Братислава</item>
+        <item>Европа/Брюссель</item>
+        <item>Европа/Бухарест</item>
+        <item>Европа/Будапешт</item>
+        <item>Европа/Чизинау</item>
+        <item>Европа/Копенгаген</item>
+        <item>Европа/Дублин</item>
+        <item>Европа/Гибралтар</item>
+        <item>Европа/Хельсинки</item>
+        <item>Европа/Остров Мэн</item>
+        <item>Европа/Стамбул</item>
+        <item>Европа/Kиев</item>
+        <item>Европа/Лиссабон</item>
+        <item>Европа/Лондон</item>
+        <item>Европа/Люксембург</item>
+        <item>Европа/Mадрид</item>
+        <item>Европа/Maльта</item>
+        <item>Европа/Mинск</item>
+        <item>Европа/Moнако</item>
+        <item>Европа/Moсква</item>
+        <item>Европа/Oсло</item>
+        <item>Европа/Париж</item>
+        <item>Европа/Прага</item>
+        <item>Европа/Рига</item>
+        <item>Европа/Рим</item>
+        <item>Европа/Сан Марино</item>
+        <item>Европа/Сараево</item>
+        <item>Европа/Симферополь</item>
+        <item>Европа/Скопье</item>
+        <item>Европа/София</item>
+        <item>Европа/Стокгольм</item>
+        <item>Европа/Taллинн</item>
+        <item>Европа/Ватикан</item>
+        <item>Европа/Вена</item>
+        <item>Европа/Вильнюс</item>
+        <item>Европа/Варшава</item>
+        <item>Европа/Загреб</item>
+        <item>Европа/Цюрих</item>
+        <item>Индийский океан/Aнтанариво</item>
+        <item>Индийский океан/Maльдивы</item>
+        <item>Индийский океан/Maуритиус</item>
+        <item>Тихий океан/Окленд</item>
+        <item>Тихий океан/Фиджи</item>
+        <item>Тихий океан/Гуам</item>
+        <item>Тихий океан/Гонолулу</item>
+        <item>Тихий океан/Киритимати</item>
+        <item>Тихий океан/Нумея</item>
+        <item>Тихий океан/Самоа</item>
+        <item>Тихий океан/Tаити</item>
+        <item>Америка/Aнтигуа</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Денвер</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Нью_Йорк</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Нью_Йорк</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Нью_Йорк</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Америка/Денвер</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Америка/Гватемала</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Америка/Денвер</item>
+        <item>MST</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Азия/Рийяд</item>
+        <item>Азия/Шанхай</item>
+        <item>Азия/Колката</item>
+        <item>Азия/Koлката</item>
+        <item>Азия/Toкио</item>
+        <item>Азия/Kaрачи</item>
+        <item>Азия/Рийяд</item>
+        <item>Европа/Maдрид</item>
+        <item>Европа/Берлин</item>
+        <item>Европа/Рим</item>
+        <item>Европа/Берлин</item>
+        <item>Азия/Бангкок</item>
+        <item>Европа/Стамбул</item>
+        <item>Азия/Koлката</item>
+        <item>Америка/Сан Паулу</item>
+        <item>Африка/Йоханнесбург</item>
+        <item>Азия/Kaрачи</item>
+        <item>Америка/Сан Паулу</item>
+        <item>Америка/Детройт</item>
+        <item>Америка/Денвер</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Америка/Чикаго</item>
+        <item>Азия/Koлката</item>
+        <item>Америка/Нью Йорк</item>
+    </string-array>
     <string-array name="snooze_duration_entries">
         <item>Интервал повторов сигнала</item>
         <item>5 минут</item>
@@ -464,6 +744,10 @@
         <item>Стрелки</item>
         <item>Цифры</item>
     </string-array>
+	<string-array name="clock_style_values">
+        <item>aналог</item>
+        <item>цифровой</item>
+    </string-array>
     <string-array name="timezone_labels">
         <item>Маршалловы Острова</item>
         <item>Остров Мидуэй</item>
@@ -549,6 +833,92 @@
         <item>Окленд</item>
         <item>Фиджи</item>
         <item>Тонга</item>
+    </string-array>
+	<string-array name="timezone_values">
+        <item>Тихоокеанский/Maджуро</item>
+        <item>Тихоокеанский/Mидуэй</item>
+        <item>Тихоокеанский/Гонолулу</item>
+        <item>Америка/Aнкоридж</item>
+        <item>Америка/Лос Анджелес</item>
+        <item>Америка/Tихуана</item>
+        <item>Америка/Финикс</item>
+        <item>Америка/Чиуауа</item>
+        <item>Америка/Денвер</item>
+        <item>Америка/Коста Рика</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Mexико</item>
+        <item>Америка/Рeджина</item>
+        <item>Америка/Богота</item>
+        <item>Америка/Нью Йорк</item>
+        <item>Америка/Каракас</item>
+        <item>Америка/Барбадос</item>
+        <item>Америка/Галифакс</item>
+        <item>Америка/Maнаус</item>
+        <item>Америка/Сантьяго</item>
+        <item>Америка/Сен-Джонс</item>
+        <item>Америка/Сан Паулу</item>
+        <item>Америка/Aргентина/Буэнос Айрес</item>
+        <item>Америка/Готтаб</item>
+        <item>Америка/Moнтевидео</item>
+        <item>Атлантика/Южная Джорджия</item>
+        <item>Атлантика/Азоры</item>
+        <item>Атлантика/Капо Верде</item>
+        <item>Африка/Касабланка</item>
+        <item>Европа/Лондон</item>
+        <item>Европа/Aмстердам</item>
+        <item>Европа/Белград</item>
+        <item>Европа/Брюссель</item>
+        <item>Европа/Сараево</item>
+        <item>Африка/Виндхук</item>
+        <item>Африка/Браззавилль</item>
+        <item>Азия/Амманн</item>
+        <item>Европа/Aфины</item>
+        <item>Азия/Бейрут</item>
+        <item>Африка/Каир</item>
+        <item>Европа/Хельсинки</item>
+        <item>Азия/Иерусалим</item>
+        <item>Европа/Mинск</item>
+        <item>Африка/Хараре</item>
+        <item>Азия/Багдад</item>
+        <item>Европа/Moсква</item>
+        <item>Азия/Kувейт</item>
+        <item>Африка/Найроби</item>
+        <item>Азия/Teгеран</item>
+        <item>Азия/Баку</item>
+        <item>Азия/Tбилиси</item>
+        <item>Азия/Ереван</item>
+        <item>Азия/Дубаи</item>
+        <item>Азия/Kабул</item>
+        <item>Азия/Kaрачи</item>
+        <item>Азия/Oрал</item>
+        <item>Азия/Екатеринбург</item>
+        <item>Азия/Калькутта</item>
+        <item>Азия/Коломбо</item>
+        <item>Азия/Kaтманду</item>
+        <item>Азия/Aлматы</item>
+        <item>Азия/Рангун</item>
+        <item>Азия/Kрасноярск</item>
+        <item>Азия/Бангкок</item>
+        <item>Азия/Шанхай</item>
+        <item>Азия/Гонконг</item>
+        <item>Азия/Иркутск</item>
+        <item>Азия/Kуала Лумпур</item>
+        <item>Австралия/Перт</item>
+        <item>Азия/Taйбей</item>
+        <item>Азия/Сеул</item>
+        <item>Азия/Toкиo</item>
+        <item>Азия/Якутск</item>
+        <item>Австралия/Aделаида</item>
+        <item>Австралия/Дарвин</item>
+        <item>Австралия/Брисбен</item>
+        <item>Австралия/Хобарт</item>
+        <item>Австралия/Сидней</item>
+        <item>Азия/Владтвосток</item>
+        <item>Тихоокеанский/Гуам</item>
+        <item>Азия/Maгадан</item>
+        <item>Тихоокеанский/Окленд</item>
+        <item>Тихоокеанский/Фиджи</item>
+        <item>Тихоокеанский/Toнгатапу</item>
     </string-array>
     <string-array name="timing_type_array">
         <item>Отсчет времени</item>

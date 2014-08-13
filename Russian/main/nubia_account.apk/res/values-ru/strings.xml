@@ -145,7 +145,7 @@
     <string name="thirdparty_qq">QQ</string>
     <string name="thirdparty_wb">Sina Weibo</string>
     <string name="thirdparty_login_first">"Конфигурация Вашего аккаунт nubia сейчас:
-Username is %1$1s
+Имя пользователя %1$1s
 Пароль %2$s
 Пожалуйста, храните тщательно."</string>
 </resources>

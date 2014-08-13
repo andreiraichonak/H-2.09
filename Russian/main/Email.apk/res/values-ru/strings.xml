@@ -55,6 +55,12 @@
     <string name="notification_to_account">Кому: %1$s</string>
     <string name="notification_multiple_new_messages_fmt">Новых сообщений: %1$d</string>
     <string name="account_name_display_all">Все аккаунты</string>
+	<string name="mailbox_name_server_inbox">Входящие</string>
+    <string name="mailbox_name_server_outbox">Исходящие</string>
+    <string name="mailbox_name_server_drafts">Черновики</string>
+    <string name="mailbox_name_server_trash">Корзинар</string>
+    <string name="mailbox_name_server_sent">Отправленные</string>
+    <string name="mailbox_name_server_junk">Спам</string>
     <string name="mailbox_name_display_inbox">Входящие</string>
     <string name="mailbox_name_display_outbox">Исходящие</string>
     <string name="mailbox_name_display_drafts">Черновики</string>
@@ -66,6 +72,13 @@
     <string name="picker_mailbox_name_all_inbox">Входящие (все)</string>
     <string name="picker_combined_view_fmt">Комбинированный вид (%s)</string>
     <string name="debug_version_fmt">Версия: %s</string>
+	<string name="debug_enable_debug_logging_label">Включить дополнительную регистрацию отладки?</string>
+    <string name="debug_enable_exchange_logging_label">Включить протоколирование парсера? (очень подробно)</string>
+    <string name="debug_enable_exchange_file_logging_label">Включить логирование СД-карты?</string>
+    <string name="debug_clear_webview_cache">Очистить кэш?</string>
+    <string name="debug_disable_graphics_acceleration_label">Отключить аппаратное ускорение графики</string>
+    <string name="debug_force_one_minute_refresh_label">Принудительное ежеминутное обновление для POP/IMAP</string>
+    <string name="debug_enable_strict_mode_label">Включить строгий режим (с логированием)</string>
     <string name="account_folder_list_summary_inbox">Входящие</string>
     <string name="account_folder_list_summary_starred">Помеченные</string>
     <string name="account_folder_list_summary_drafts">Черновики</string>
@@ -395,6 +408,7 @@
     <string name="search_slow_warning_title">Ожидание результатов</string>
     <string name="search_slow_warning_message">Ожидание ответа от сервера может занять много времени.</string>
     <string name="action_bar_mailbox_list_title">Папки</string>
+	<string name="long_string">длиииииииииииииииииииннннннннннннннннннннннннннный</string>
     <string name="require_manual_sync_message">Для этого аккаунта отключена фоновая синхронизация в роуминге.</string>
     <string name="account_name_length_limited">Введите не более 30 символов</string>
     <string name="template">Образец Email</string>

@@ -31,4 +31,11 @@
     <string name="select_all">Выбрать все</string>
     <string name="selected_count">%1$d из %2$d</string>
     <string name="download_share_dialog">Способ отправки</string>
+	<string name="download_select_all">Выбрать все</string>
+    <string name="download_unselect_all">Отменить выбранное</string>
+    <string name="dialog_title">Удалить</string>
+    <string name="dialog_message">Удалить выбранные файлы</string>
+    <string name="dialog_ok_btn">OK</string>
+    <string name="dialog_no_btn">Отмена</string>
+    <string name="menu_share">Поделиться</string>
 </resources>
