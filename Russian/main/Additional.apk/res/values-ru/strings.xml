@@ -36,7 +36,7 @@
     <string name="signal_percent_w">ЗАПАД Процент Сигнала: %1$.2f%%</string>
     <string name="signal_percent_s">ЮГ Процент Сигнала: %1$.2f%%</string>
     <string name="signal_percent_n">СЕВЕР Процент Сигнала: %1$.2f%%</string>
-    <string name="quicktest_threemic">Мульитмикрофон</string>
+    <string name="quicktest_threemic">Мультимикрофон</string>
     <string name="quicktest_threemic_mic1">Mик 1:</string>
     <string name="quicktest_threemic_mic2">Mик 2:</string>
     <string name="quicktest_threemic_mic3">Mик 3:</string>
