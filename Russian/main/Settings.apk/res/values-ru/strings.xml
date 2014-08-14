@@ -44,7 +44,7 @@
     <string name="radioInfo_data_connected">Подключено</string>
     <string name="radioInfo_data_suspended">Приостановлено</string>
     <string name="radioInfo_unknown">неизвестно</string>
-    <string name="radioInfo_display_packets">pkts</string>
+    <string name="radioInfo_display_packets">пакеты</string>
     <string name="radioInfo_display_bytes">байт</string>
     <string name="radioInfo_display_dbm">dBm</string>
     <string name="radioInfo_display_asu">asu</string>
@@ -154,11 +154,11 @@
     <string name="normal_date_format">По умолчанию (%s)</string>
     <string name="display_preview_label">Предпросмотр:</string>
     <string name="display_font_size_label">Размер шрифта:</string>
-    <string name="intent_sender_data_label">Data:</string>
+    <string name="intent_sender_data_label">Данные:</string>
     <string name="intent_sender_sendbroadcast_text">Отправить broadcast</string>
-    <string name="intent_sender_action_label">Action:</string>
+    <string name="intent_sender_action_label">Действия:</string>
     <string name="intent_sender_startactivity_text">Начать activity</string>
-    <string name="intent_sender_resource_label">Resource:</string>
+    <string name="intent_sender_resource_label">Ресурсы:</string>
     <string name="intent_sender_account_label">Аккаунт:</string>
     <string name="proxy_settings_title">Прокси-сервер</string>
     <string name="proxy_clear_text">Очистить</string>
@@ -382,7 +382,7 @@
     <string name="bluetooth_settings_summary">Настройка подключений, видимости и имени устройства</string>
     <string name="bluetooth_pairing_request">Запрос сопряжения Bluetooth</string>
     <string name="bluetooth_enter_pin_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите PIN-код:</string>
-    <string name="bluetooth_enter_pin_msg_hs">Введите PIN-код для сопряжения с u0022%1$s u0022. [Высокий уровень защиты включен: требуется 16-тисимвольный ключ]</string>
+    <string name="bluetooth_enter_pin_msg_hs">Введите PIN-код для сопряжения с u0022%1$s u0022. [Высокий уровень защиты включен: требуется 16-и символьный ключ]</string>
     <string name="bluetooth_enter_passkey_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите пароль:</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN-код содержит буквы или символы</string>
     <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
@@ -491,7 +491,7 @@
     <string name="nsd_quick_toggle_title">Обнаружение сетевых служб</string>
     <string name="nsd_quick_toggle_summary">Разрешить приложениям на других устройствах обнаруживать приложения на этом устройстве</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
-    <string name="wifi_quick_toggle_summary">Включить Wi‑Fi</string>
+    <string name="wifi_quick_toggle_summary">Включить Wi-Fi</string>
     <string name="wifi_settings">Wi-Fi</string>
     <string name="wifi_settings_category">Настройки Wi-Fi</string>
     <string name="wifi_settings_title">Wi-Fi</string>
@@ -1367,7 +1367,7 @@
     <string name="accessibility_toggle_screen_magnification_preference_title">Масштаб</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Сохранять масштаб</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Сохранять масштаб при переходе между приложениями</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">ВЫКЛ завершает вызов</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка ВЫКЛ завершает вызов</string>
     <string name="accessibility_toggle_speak_password_preference_title">Озвучивать пароли</string>
     <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
     <string name="accessibility_menu_item_settings">Настройки</string>
@@ -1474,8 +1474,8 @@
     <string name="usage_type_phone">Телефон</string>
     <string name="usage_type_data_send">Данные отправлены</string>
     <string name="usage_type_data_recv">Данные получены</string>
-    <string name="usage_type_data_wifi_send">Данные отправлены по сети Wi‑Fi</string>
-    <string name="usage_type_data_wifi_recv">Данные получены по сети Wi‑Fi</string>
+    <string name="usage_type_data_wifi_send">Данные отправлены по сети Wi-Fi</string>
+    <string name="usage_type_data_wifi_recv">Данные получены по сети Wi-Fi</string>
     <string name="usage_type_audio">Аудио</string>
     <string name="usage_type_video">Видео</string>
     <string name="usage_type_on_time">Время работы</string>
@@ -2042,7 +2042,7 @@
     <string name="user_restrictions_controlled_by">Под управлением приложения \"%1$s\"</string>
     <string name="app_not_supported_in_limited">Приложение не поддерживается в профилях с ограниченным доступом</string>
     <string name="app_sees_restricted_accounts">Этому приложению разрешен доступ к вашим аккаунтам</string>
-    <string name="restriction_wifi_config_title">Wi‑Fi и мобильная сеть</string>
+    <string name="restriction_wifi_config_title">Wi-Fi и мобильная сеть</string>
     <string name="restriction_wifi_config_summary">Разрешить изменение настроек Wi‑Fi и мобильной сети</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
     <string name="restriction_bluetooth_config_summary">Разрешить изменение настроек Bluetooth-подключения</string>
@@ -2073,7 +2073,7 @@
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_certificate">Cертификат</string>
     <string name="wifi_wapi_cert_mgmt_titlebar">WAPI менеджмент сертификатов</string>
-    <string name="wifi_wapi_cert_install">Install WAPI сертификат</string>
+    <string name="wifi_wapi_cert_install">Установка WAPI сертификата</string>
     <string name="wifi_wapi_cert_install_button">Установить</string>
     <string name="wifi_wapi_cert_uninstall_button">Удалить</string>
     <string name="wifi_wapi_cert_cancel_button">Отмена</string>
@@ -2097,7 +2097,7 @@
     <string name="wifi_context_menu_change_wapi_certificate">Cмените WAPI сертификат</string>
     <string name="header_category_connect">ПОДКЛЮЧЕНИЕ</string>
     <string name="profile_settings">Профиль</string>
-    <string name="vistor_title">visitor</string>
+    <string name="vistor_title">гость</string>
     <string name="visitor_summary">"контакты, сообщения, почта, фото, файлы, календарь, ярлыки - будут скрыты и их редактирование недоступно"</string>
     <string name="pocket_title">Карман</string>
     <string name="pocket_summary">Максимальная громкость звонка и вибрации в кармане</string>
@@ -2110,7 +2110,7 @@
     <string name="restrict_cpu_title">Энергосбережение ЦП</string>
     <string name="restrict_cpu_summary">Ограничить работу процессора</string>
     <string name="screen_save_title">Экранная заставка</string>
-    <string name="screen_save_summary">Уменьшить яркость, укоротить время подсветки, отключить поворот экрана</string>
+    <string name="screen_save_summary">Уменьшить яркость, уменьшить время подсветки, отключить поворот экрана</string>
     <string name="turnoff_all_connection_title">Отключить интернет</string>
     <string name="turnoff_all_connection_summary">Подключения, bluetooth, Wi-Fi, Точка доступа Wi-Fi, GPS</string>
     <string name="turnoff_haptic_feedback_title">Отключить виброотклик</string>
@@ -2125,7 +2125,7 @@
     <string name="deep_sleep_music_title">Дополнительное муз. сопровождение</string>
     <string name="notify_favorite_title">Напоминания только об избранных контактах</string>
     <string name="notify_favorite_summary">Напоминание об избранных контактах через 3 минуты</string>
-    <string name="snooze_title">Режим дремания при проведении рукой</string>
+    <string name="snooze_title">Отложить при проведении рукой</string>
     <string name="dialog_powersave_title">Включить максимум энергосберегания</string>
     <string name="power_per_5">5%</string>
     <string name="power_per_10">10%</string>
@@ -2133,20 +2133,20 @@
     <string name="power_per_20">20%</string>
     <string name="power_per_25">25%</string>
     <string name="power_per_30">30%</string>
-    <string name="snooze_entry_header">Включить дремание</string>
-    <string name="snooze_entry_details">При сигнале будильника, проведите рукой над телеофном для режима дремания</string>
+    <string name="snooze_entry_header">Отложить</string>
+    <string name="snooze_entry_details">При сигнале будильника, проведите рукой над телефоном для того, чтобы отложить будильник:) </string>
     <string name="sleep_music_quiet_night">Тихая ночь</string>
     <string name="sleep_music_dream_kingdom">Королевство мечты</string>
     <string name="sleep_music_dream_hometown">Город мечты</string>
     <string name="sleep_music_dream_angelparty">Ангельская вечеринка</string>
     <string name="profile_widget_string">Профиль</string>
-    <string name="profile_sleep_time_settings">In the buglist</string>
+    <string name="profile_sleep_time_settings">Время сна</string>
     <string name="sleep_time_start">23:00</string>
     <string name="sleep_time_end">07:00</string>
     <string name="sleep_time_separator">—</string>
     <string name="sleep_time_warning">Время начала не должно быть одинаковым со временем окончания!</string>
-    <string name="avoid_mistouch_title">Избегайте касания в кармане</string>
-    <string name="avoid_mistouch_summary">Предотвратить неправильное использование, когда телефон находится в кармане.</string>
+    <string name="avoid_mistouch_title">Избегайте касаний в кармане</string>
+    <string name="avoid_mistouch_summary">Предотвратить нежелательное использование, когда телефон находится в кармане.</string>
     <string name="maxring_vibrate_title">Уровень рингтона высокий и виброзвонок.</string>
     <string name="maxring_vibrate_summary">Когда приходит входящий вызов, уровень рингтона становится высоким и телефон вибрирует, если он находится в кармане.</string>
     <string name="notify_favorite_title2">Повторные входящие вызовы не запрещены</string>
@@ -2155,7 +2155,7 @@
     <string name="deep_sleep_onoff_title">Таймер переключатель</string>
     <string name="deep_sleep_category_title">Список функций</string>
     <string name="sleep_unconnect_title">Отключить сетевое соединение</string>
-    <string name="sleep_unconnect_summary">WLAN, мобильные сети, GPS, Bluetooth, Wi-Fi точкидоступа</string>
+    <string name="sleep_unconnect_summary">WLAN, мобильные сети, GPS, Bluetooth, Wi-Fi точки доступа</string>
     <string name="deep_sleep_category_tel_title">Настройки входящих вызовов</string>
     <string name="sleep_tel_setting_title">Разрешенные контакты</string>
     <string name="sleep_tel_white_title">Список разрешенных контактов!</string>
@@ -2198,7 +2198,7 @@
 "<li>boot.img</li>"
 "<li>system.img</li>"
 "<li>recovery.img</li>"
-It не стирать :
+Не удалятся :
 "<li>текущие данные системы и связанных приложений</li>"
 "<li>Файлы внутреннего хранилища, такие как музыка или фото</li></string>
     <string name="master_update_button_text">Сброс настроек</string>
@@ -2218,7 +2218,7 @@ It не стирать :
     <string name="dm_update_fail">Нет доступных пакетов обновлений, проверьте обновления.</string>
     <string name="dm_ok">OK</string>
     <string name="dm_network_error">Нет подключения к сети.</string>
-    <string name="dm_already_new">Ваш телефон новейшей версии, пакет обновлений не требуется!</string>
+    <string name="dm_already_new">На ваш телефон установлена последняя версия ПО, обновлений нет!</string>
     <string name="dm_ci_fumo_busy">занят, попробуйте позже!</string>
     <string name="dm_ci_fumo_init">В данный момент идет запуск vdmc, попробуйте позднее!</string>
     <string name="no_update_file_in_fota_sdcard_title">Нет пакета обновлений</string>
@@ -2232,7 +2232,7 @@ It не стирать :
 
 "</li><li>"Установление пакета обновлений не удалит ваши личные данные.
 
-"</li><li>"Не вытаскивайте SIM карту и следите за уровнем заряда батареи.
+"</li><li>"Не вынимайте SIM карту и следите за уровнем заряда батареи.
 
 "</li></string>
     <string name="icc_card_absent">ICC карта отсутствует</string>
@@ -2248,7 +2248,7 @@ It не стирать :
     <string name="automatical_title">Автоматический язык</string>
     <string name="automatical_summary">Установите язык в соответствии с SIM / USIM-картой</string>
     <string name="pri_version">PRI версия</string>
-	<string name="pri_version_content">2.07</string>
+	<string name="pri_version_content">2.09</string>
     <string name="model_display_name">ZTE nubia Z5S</string>
     <string name="silent_mode_title">Бесшумный режим</string>
     <string name="volume_system_description">Система (получение фото, захват экрана, блокировка экрана, касание, и т.д.)</string>
@@ -2257,13 +2257,13 @@ It не стирать :
     <string name="volume_bluetooth_sco_mute">Отключение Bluetooth</string>
     <string name="notification_panel_title">Панель уведомлений</string>
     <string name="category_screen_title">Экран</string>
-    <string name="lockscreen_title">Фото блокировки экрана</string>
-    <string name="led_app_msg_title">Сообщение приложения</string>
-    <string name="led_app_msg_summary">Подсветка，когда имеются непрочитанный сообщения проложений</string>
-    <string name="led_brightness">Автонастройка яркости подсветки кнопок</string>
+    <string name="lockscreen_title">Просмотр фото при заблок. экране</string>
+    <string name="led_app_msg_title">Уведомления приложений</string>
+    <string name="led_app_msg_summary">Мерцание при имеющихся непрочитанных уведомлений проложений</string>
+    <string name="led_brightness">Автонастройка подсветки кнопок</string>
     <string name="nubia_font_size_example">смартфон nubia</string>
     <string name="font_size_small">Маленький</string>
-    <string name="font_size_big">Большой</string>
+    <string name="font_size_big">Очень большой</string>
     <string name="saturation_info">Насыщенность</string>
     <string name="hue_info">Оттенок</string>
     <string name="cool_tone">Прохладный тон</string>
@@ -2287,7 +2287,7 @@ It не стирать :
     <string name="install_settings">Мастер установки</string>
     <string name="device_admin_and_credentials_title">Разрешения и учетные данные</string>
     <string name="reduce_dynamic_effect_title">Уменьшить динамический эффект.</string>
-    <string name="reduce_dynamic_effect_summary">Уменьшить динамический эффект UI，включая эффект параллакса иконки и уведомления</string>
+    <string name="reduce_dynamic_effect_summary">Уменьшить динамический эффект UI，включая эффект параллакса иконок и уведомлений</string>
     <string name="no_account">Нет аккаунтов</string>
     <string name="no_vpn">Нет VPN</string>
     <string name="feature_settings">Специальные возможности</string>
@@ -2306,17 +2306,17 @@ It не стирать :
     <string name="quick_communication_info1">Когда имеется пропущенный звонок, &lt;font_size>hover&lt;/font_size> ваших пальца на иконке звонка &lt;br/>to &lt;font_size> preview &lt;/font_size> и быстрого набора</string>
     <string name="quick_communication_info2">&lt;font_size>Hover&lt;/font_size> ваших пальца над списком звонков, контактов и сообщений &lt;br/>чтобы осуществить быстрый звонок или СМС</string>
     <string name="split_screen_settings">Разделение экрана</string>
-    <string name="split_screen_info">Разделите экран на две части, чтобы видеть работу двуз приложений одновременно</string>
+    <string name="split_screen_info">Разделите экран на две части, чтобы видеть работу двух приложений одновременно на одном экране</string>
     <string name="split_screen_manual">Включить деление экрана вручную</string>
-    <string name="split_screen_slide_up_titile">Как пользоваться жестом разделения экрана</string>
+    <string name="split_screen_slide_up_titile">Как пользоваться жестом</string>
     <string name="split_screen_slide_up_summary">Проведите вверх от нижней части экрана, чтобы включить разделение</string>
     <string name="split_screen_slide_up_info">Когда разделение экрана включено, вы можете &lt;font_size>движением &lt;/font_size>от низа экрана &lt;font_size>активировать режим разделения &lt;/font_size></string>
     <string name="split_screen_mode_title">Режим разделения экрана</string>
-    <string name="split_screen_mode_summary">при режиме разделения экрана, экран делится на две части; для возвращения нормального состояния используйте кнопку назад, и отключите жест.</string>
-    <string name="bottom_key_definition_title">Пользовательская настройка расположения виртуальных кнопок</string>
+    <string name="split_screen_mode_summary">При режиме разделения экрана, экран делится на две части; для возвращения нормального состояния используйте кнопку назад, и отключите жест.</string>
+    <string name="bottom_key_definition_title">Настройка расположения вирт. кнопок</string>
     <string name="bottom_key_definition_summary">Переназначить кнопки Назад и Меню</string>
-    <string name="layout_one">Макет один</string>
-    <string name="layout_two">Макет два</string>
+    <string name="layout_one">Первый вариант</string>
+    <string name="layout_two">Второй вариант</string>
     <string name="bottom_key_menu">Меню</string>
     <string name="bottom_key_home">Домой</string>
     <string name="bottom_key_back">Назад</string>
@@ -2376,7 +2376,7 @@ It не стирать :
     <string name="wifi_uninstall_wapi_cert_success">WiFi WAPI сертифика успешно удален</string>
     <string name="wifi_sort_way_title">Упорядочить</string>
     <string name="absolute_brightness">Яркость</string>
-	<string name="fine_tune_brightness">Тонкая подстройка яркости</string>
+	<string name="fine_tune_brightness">Подстройка яркости</string>
     <string name="smart_memory_title">Запись величин в память</string>
     <string name="smart_memory_summary">Запись текущих величин окружающей среды (работы датчика освещения)</string>
     <string name="reset_automatic_setting">Сбросить установки яркости</string>
@@ -2397,27 +2397,42 @@ It не стирать :
     <string name="internal">Внутренняя помять</string>
     <string name="external">SD-карта</string>
     <string name="change_primary">Изменение памяти по умолчанию</string>
+	<string name="change_primary_or_not">Изменить память по умолчанию</string>
+    <string name="change_primary_or_not_message">Изменение накопителя, сменить накопитель по умолчанию?</string>
     <string name="change_primary_detail">Изменение памяти по умолчанию произойдет после перезагрузки.Данные приложений могут быть утеряны после изменения.Приложение не может использоваться.Пожалуйста，переустановите приложение.</string>
+	<string name="confirm_reboot">перезагрузка</string>
+    <string name="external_as_primary_off_message">Выбор доступен, после вставки картыSD</string>
+    <string name="after_sales_service">"Послепродажный сервис - то, чего не может быть:)"</string>
+    <string name="after_sales_settings_switch">Автозапуск</string>
+    <string name="after_sales_settings_desc">"Расшифровка функций:
+ для того чтобы обеспечить вас бесплатным послепродажным обслуживанием (Управление устройством через Management Platform Terminal, установленную China Mobile, получить настройки вашего устройства удаленно, параметры, обновление программного обеспечения в любое время ), вам нужно свободно зарегистрировать устройство на Management Platform Terminal. После регистрации, текст сообщение будет отправлено на устройство только один раз бесплатно (текст сообщения не отправляется в роуминге в HK / Макао / Тайвань или международном)."</string>
+    <string name="default_not_equals_prefer_data">В связи со сложившейся ситуацией, текущие MMS,файлы карты памяти,настройки данных не совпадают.</string>
+    <string name="filter_apps_oninternal">Внутренняя память</string>
+    <string name="move_app_to_internal_storage">Переместить на внутр. память</string>
+    <string name="insert_erro_toast">Катра Чайна телеком может быть вставлена в слот 1.</string>
+    <string name="additional_bootanimation_info_title">Информация анимации загрузки</string>
+    <string name="insert_erro">Ошибка вложения</string>
+    <string name="contacts_app_exist">Убедитесь, что приложение Контакты существует!</string>
     <string name="font_size_example">"
 Это пример теста на размер шрифта"</string>
     <string name="font_size_cancel">Отмена</string>
     <string name="font_size_ok">OK</string>
     <string name="summary_font_size_v5">Установки затронут телефон, сообщения, контакты и настройки</string>
     <string name="font_size_note">Изменится размер шрифта в телефоне, сообщениях, контактах и настройках</string>
-    <string name="led_light_title">Подсветка действий</string>
+    <string name="led_light_title">Подсветка вирт. кнопок</string>
     <string name="led_charge_title">Зарядка</string>
-    <string name="led_charge_summary">Подсветка при зарядке</string>
+    <string name="led_charge_summary">Мерцание при зарядке</string>
     <string name="led_battery_low_title">Низкий уровень заряда батареи</string>
-    <string name="led_battery_low_summary">Подсветка активности при низком уровне заряда</string>
-    <string name="led_event_miss_title">Пропуск события</string>
-    <string name="led_event_miss_summary">Подсветка при пропущенном вызове или сообщении</string>
-    <string name="led_all_on">Подсветка при зарядке, низком уровне заряда и пропущенном событии</string>
-    <string name="led_charge_battery_low_on">Подсветка при зарядке и низком уровне заряда</string>
-    <string name="led_charge_event_miss_on">Подсветка при зарядке и пропущенном событии</string>
-    <string name="led_battery_low_event_miss_on">Подстветка при низком уровне заряда и пропущенном событии</string>
-    <string name="led_charge_on">Подсветка активности при зарядке</string>
-    <string name="led_battery_low_on">Подсветка при низком уровне заряда</string>
-    <string name="led_event_miss_on">Подсветка при пропущенном событии</string>
+    <string name="led_battery_low_summary">Мерцание при низком уровне заряда</string>
+    <string name="led_event_miss_title">Пропуск событий</string>
+    <string name="led_event_miss_summary">Мерцание при пропущенном вызове или сообщении</string>
+    <string name="led_all_on">Мерцание при зарядке, низком уровне заряда и пропущенном событии</string>
+    <string name="led_charge_battery_low_on">Мерцание при зарядке и низком уровне заряда</string>
+    <string name="led_charge_event_miss_on">Мерцание при зарядке и пропущенном событии</string>
+    <string name="led_battery_low_event_miss_on">Мерцание при низком уровне заряда и пропущенном событии</string>
+    <string name="led_charge_on">Мерцание при зарядке</string>
+    <string name="led_battery_low_on">Мерцание при низком уровне заряда</string>
+    <string name="led_event_miss_on">Мерцание при пропущенном событии</string>
     <string name="led_all_off">Выкл</string>
     <string name="image_enhance_title">Улучшение изображения</string>
     <string name="image_enhance_settings">Настройки улучшения изображения</string>
@@ -2426,7 +2441,7 @@ It не стирать :
     <string name="image_enhance_improve">Свечение</string>
     <string name="summary_image_enhance_on">Вкл</string>
     <string name="summary_image_enhance_off">Выкл</string>
-    <string name="screen_timeout_v5">Время подсветки экрана</string>
+    <string name="screen_timeout_v5">Время работы подсветки экрана</string>
     <string name="screen_timeout_15_sec">15 сек</string>
     <string name="screen_timeout_30_sec">30 сек</string>
     <string name="screen_timeout_1_min">1 мин</string>
@@ -2546,6 +2561,7 @@ It не стирать :
     <string name="storage_format_summary">Удаление всех данных с внутренней памяти, таких как музыка и фото</string>
     <string name="app_format_summary">Удалить установленные приложения</string>
     <string name="wifi_display_wps_option_setup">WPS</string>
+	<string name="default_data_summary">Использовать сеть для передачи данных %1$s</string>
     <string name="erase_internal_storage">Стереть внутреннюю память</string>
     <string name="erase_internal_storage_description">Стереть все данные во внутренней памяти, такие как музыка или фотографии</string>
 	<string name="wifi_menu_wps_pbc_summary">Пожалуйста, убедитесь, что ваш роутер поддерживает WPS</string>
@@ -2555,9 +2571,11 @@ It не стирать :
     <string name="motion_intro_tip">Не показывать снова</string>
     <string name="display_size_title">Размер дисплея</string>
     <string name="display_size_dialog_title">Выбрать размер дисплея</string>
+	<string name="display_size_default">1280x720/213</string>
     <string name="single_ui_mode">Одной рукой</string>
     <string name="su_black_app">Настройки черного списка</string>
     <string name="su_black_app_summary">Выберите защищенные приложения</string>
+	<string name="display_size_summary">1280x720</string>
     <string name="add_su_black_list_apps">Добавить защищенные приложения</string>
     <string name="gallery_camara">Галерея / Камера</string>
     <string name="single_ui_mode_settings">Настройки работы одной рукой</string>
@@ -2601,6 +2619,7 @@ It не стирать :
     <string name="wifidisplay_manual_02_01">Смотри вместе, играй вместе!</string>
     <string name="wifidisplay_manual_02_02">"Вы можете отображать содержимое вашего телефона на другой телефон, и ваш телефон будет под контролем"</string>
     <string name="wifidisplay_manual_03_01">Прикоснись, нажми, подключись!</string>
+	<string name="wifidisplay_manual_03_01_no_nfc">Нажми, подключись!</string>
     <string name="wifidisplay_manual_03_02">"Сканируй двухмерный код с другого телефона для подключения"</string>
     <string name="wifidisplay_manual_03_03">На одном телефон включен Wi-Fi дисплей, касанием включается к другому телефон. (Оба телефона поддерживают NFC, и NFC должен быть включен)</string>
     <string name="wfd_screen_timeout">Время отключения экрана во время проецирования</string>
