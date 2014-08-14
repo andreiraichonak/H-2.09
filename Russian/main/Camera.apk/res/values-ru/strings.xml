@@ -989,8 +989,6 @@
 	<string name="pref_snapshot_mirror_default">вкл</string>
     <string name="pref_snapshot_mirror_title">Зеркальный снимок</string>
     <string name="pref_slow_shutter_title">Медленный затвор</string>
-    <string name="pref_slow_shutter_default">-1</string>
-	<string name="pref_slow_shutter_default">8</string>
     <string name="pref_camera_fno_title">Fno</string>
     <string name="pref_camera_fno_default">2.0</string>
     <string name="pref_interval_pro_title">Интервал времени:</string>
