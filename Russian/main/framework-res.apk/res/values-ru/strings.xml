@@ -5,7 +5,6 @@
     <string name="copyUrl">Копировать URL</string>
     <string name="cut">Вырезать</string>
     <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
-    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="emptyPhoneNumber">(Нет номера телефона)</string>
     <string name="httpErrorBadUrl">Не удалось открыть страницу. URL недействителен.</string>
     <string name="httpErrorUnsupportedScheme">Протокол не поддерживается.</string>
@@ -35,9 +34,6 @@
     <string name="gigabyteShort">ГБ</string>
     <string name="terabyteShort">TБ</string>
     <string name="petabyteShort">ПБ</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
-    <string name="ellipsis">…</string>
-    <string name="ellipsis_two_dots">...</string>
     <string name="mmiError">Неполадки подключения или неверный код MMI.</string>
     <string name="mmiFdnError">Операция возможна только для разрешенных номеров.</string>
     <string name="serviceEnabled">Служба включена.</string>
@@ -55,8 +51,6 @@
     <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите код PUK.</string>
     <string name="needPuk2">Для разблокировки SIM-карты введите PUK2.</string>
     <string name="enablePin">Произошла ошибка. Включите блокировку SIM-карты или карты R-UIM.</string>
-    <string name="imei">IMEI</string>
-    <string name="meid">MEID</string>
     <string name="ClipMmi">Идентификация вызывающего абонента</string>
     <string name="ClirMmi">Идентификация звонящего абонента</string>
     <string name="CfMmi">Переадресация вызова</string>
@@ -92,7 +86,6 @@
     <string name="serviceClassDataAsync">Асинхр.</string>
     <string name="serviceClassDataSync">Синхр.</string>
     <string name="serviceClassPacket">Пакет</string>
-    <string name="serviceClassPAD">PAD</string>
     <string name="roamingText0">Индикатор роуминга включен</string>
     <string name="roamingText1">Индикатор роуминга отключен</string>
     <string name="roamingText2">Индикатор роуминга мигает</string>
@@ -108,7 +101,6 @@
     <string name="roamingText12">Баннер роуминга выключен</string>
     <string name="roamingTextSearching">Поиск службы</string>
     <string name="cfTemplateNotForwarded">{0}: не переадресовано</string>
-    <string name="cfTemplateForwarded">{0}: {1}</string>
     <string name="cfTemplateForwardedTime">{0}: {1} через {2} с.</string>
     <string name="cfTemplateRegistered">{0}: Не переадресовано</string>
     <string name="cfTemplateRegisteredTime">{0}: Не переадресовано</string>
@@ -664,7 +656,6 @@
     <string name="phoneTypeCallback">Обр. вызов</string>
     <string name="phoneTypeCar">В авто</string>
     <string name="phoneTypeCompanyMain">Телефон офиса</string>
-    <string name="phoneTypeIsdn">ISDN</string>
     <string name="phoneTypeMain">Основной</string>
     <string name="phoneTypeOtherFax">Доп. факс</string>
     <string name="phoneTypeRadio">Радиотелефон</string>
@@ -692,15 +683,6 @@
     <string name="imTypeWork">Рабочий</string>
     <string name="imTypeOther">Другой</string>
     <string name="imProtocolCustom">Создать свой ярлык</string>
-    <string name="imProtocolAim">AIM</string>
-    <string name="imProtocolMsn">Windows Live</string>
-    <string name="imProtocolYahoo">Yahoo</string>
-    <string name="imProtocolSkype">Skype</string>
-    <string name="imProtocolQq">QQ</string>
-    <string name="imProtocolGoogleTalk">Hangouts</string>
-    <string name="imProtocolIcq">ICQ</string>
-    <string name="imProtocolJabber">Jabber</string>
-    <string name="imProtocolNetMeeting">NetMeeting</string>
     <string name="orgTypeWork">Работа</string>
     <string name="orgTypeOther">Другое</string>
     <string name="orgTypeCustom">Создать свой ярлык</string>
@@ -967,8 +949,6 @@
     <string name="Noon">Полдень</string>
     <string name="midnight">полночь</string>
     <string name="Midnight">Полночь</string>
-    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
-    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="replace">Заменить</string>
     <string name="delete">Удалить</string>
     <string name="textSelectionCABTitle">Выбор текста</string>
@@ -981,8 +961,6 @@
     <string name="app_running_notification_title">Приложение \"%1$s\" выполняется</string>
     <string name="app_running_notification_text">Нажмите, чтобы получить дополнительные данные или выключить приложение.</string>
     <string name="loading">Загрузка…</string>
-    <string name="capital_on">I</string>
-    <string name="capital_off">O</string>
     <string name="whichApplication">Что использовать?</string>
     <string name="whichHomeApplication">Выберите приложение</string>
     <string name="alwaysUse">По умолчанию для этого действия</string>
@@ -1132,18 +1110,6 @@
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="candidates_style"><u>варианты</u></string>
-    <string name="ext_media_checking_notification_title">Подготовка карты SD</string>
-    <string name="ext_media_checking_notification_message">Проверка ошибок.</string>
-    <string name="ext_media_nofs_notification_title">Пустая карта SD</string>
-    <string name="ext_media_nofs_notification_message">На SD-карте нет данных, или ее файловая система не поддерживается.</string>
-    <string name="ext_media_unmountable_notification_title">Поврежденная карта SD</string>
-    <string name="ext_media_unmountable_notification_message">SD-карта повреждена. Попробуйте отформатировать ее.</string>
-    <string name="ext_media_badremoval_notification_title">Карта SD неожиданно извлечена</string>
-    <string name="ext_media_badremoval_notification_message">Перед извлечением карты SD отключите ее во избежание потери данных.</string>
-    <string name="ext_media_safe_unmount_notification_title">Безопасное удаление карты SD</string>
-    <string name="ext_media_safe_unmount_notification_message">Можно безопасно извлечь SD-карту.</string>
-    <string name="ext_media_nomedia_notification_title">Отсутствует карта SD</string>
-    <string name="ext_media_nomedia_notification_message">SD-карта извлечена. Вставьте новую карту.</string>
     <string name="activity_list_empty">Подходящих действий не найдено.</string>
     <string name="permlab_pkgUsageStats">Обновление статистики использования компонентов</string>
     <string name="permdesc_pkgUsageStats">Приложение сможет изменять собранную статистику использования компонентов. Это разрешение не используется обычными приложениями.</string>
@@ -1182,7 +1148,6 @@
     <string name="wallpaper_binding_label">Фоновый рисунок</string>
     <string name="chooser_wallpaper">Сменить обои</string>
     <string name="notification_listener_binding_label">Служба просмотра уведомлений</string>
-    <string name="alternate_eri_file">/data/eri.xml</string>
     <string name="vpn_title">Сеть VPN активна</string>
     <string name="vpn_title_long">Сеть VPN активирована приложением %s</string>
     <string name="vpn_text">Нажмите, чтобы открыть настройки.</string>
@@ -1280,7 +1245,6 @@
     <string name="action_bar_up_description">Перейти вверх</string>
     <string name="action_menu_overflow_description">Ещё</string>
     <string name="action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="storage_internal">Внутренняя память</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-накопитель</string>
@@ -1316,7 +1280,6 @@
     <string name="activity_chooser_view_see_all">Показать все</string>
     <string name="activity_chooser_view_dialog_title_default">Выберите</string>
     <string name="share_action_provider_share_with">Открыть доступ</string>
-    <string name="list_delimeter">", "</string>
     <string name="sending">Отправка...</string>
     <string name="launchBrowserDefault">Запустить браузер?</string>
     <string name="SetupCallDefault">Ответить?</string>
@@ -1560,11 +1523,6 @@
     <string name="open_wifi_hint">Не могу открыть WiFi дисплей и маленький экран одновременнно, пожалуйста, закройте экран WiFi до открытия маленького экрана</string>
 	<string name="text_pastelist">буфер обмена</string>
     <string name="select">выбрать</string>
-    <string name="nubia_widget_time_format">ММММ-дддд</string>
-    <string name="digital_clock_date_format">EEEE MMMM dddd</string>
-    <string name="digital_clock_hour_format_12">hh:mm</string>
-    <string name="digital_clock_hour_format_24">kk:mm</string>
-    <string name="digital_clock_week_format">E</string>
     <string name="dual_card_prompt_title">Установить карту по умолчанию</string>
     <string name="nubia_service_name">Сервис пользователя Nubia</string>
     <string name="webviewchromium_actionbar_share">Поделиться</string>
