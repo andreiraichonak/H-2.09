@@ -53,7 +53,6 @@
     <string name="add_to_homescreen_menu_option">Главный экран</string>
     <string name="add_to_other_folder_menu_option">Другая папка</string>
     <string name="name">Ярлык</string>
-    <string name="http">http://</string>
     <string name="save_to_bookmarks">Добавить закладку</string>
     <string name="bookmark_this_page">Закладка для этой страницы</string>
     <string name="remove">Удалить</string>
@@ -235,7 +234,6 @@
     <string name="pref_link_prefetch_dialogtitle">Предзагрузка веб-страниц</string>
     <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
     <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
-    <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка).</string>
     <string name="loadSuspendedTitle">Нет подключения</string>
     <string name="loadSuspended">Не удалось загрузить страницу: нет интернет-подключения.</string>

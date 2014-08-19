@@ -10,7 +10,6 @@
     <string name="inter_unknown">Неизвестный</string>
     <string name="port_title">Заводской порт</string>
     <string name="adb_title">Adb Порт</string>
-    <string name="tp_ic_ver">TP_IC_VERSION:</string>
     <string name="screen_calibration">Калибровка экрана, пожалуйста, подождите</string>
     <string name="screen_calib_finished">Калибровка завершена</string>
     <string name="screen_calib_fail">Калибровка не удалась</string>
@@ -53,11 +52,9 @@
     <string name="quicktest_3mic_close_to_mic3">Близко поднесите микрофон к наушникам и скажите что-нибудь громко</string>
     <string name="quicktest_3mic_close_to_mic2">Близко поднесите микрофон к камере и скажите что-нибудь громко</string>
     <string name="quicktest_microphone_block">Пожалуйста, закройте микрофон</string>
-    <string name="quicktest_microphone_diff_value">%1$.2f%%</string>
     <string name="quicktest_microphone_suggest_pass">Тест пройден</string>
     <string name="quicktest_microphone_suggest_fail">Тест не удался</string>
     <string name="quicktest_3mic_sd_unmounted">SD-карта извлечена</string>
-    <string name="quicktest_3mic_chang_to_db">%1$s DB</string>
     <string name="quicktest_threemic_criterion">Пройден, только если значение больше 100</string>
     <string name="quicktest_btn_success">Успешно</string>
     <string name="quicktest_btn_failed">Неудачно</string>

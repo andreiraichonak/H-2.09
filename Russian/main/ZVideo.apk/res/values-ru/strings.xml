@@ -6,8 +6,6 @@
     <string name="grid">Сетка</string>
     <string name="hide_video">Скрыть (Показать) видео</string>
     <string name="hide">Скрыть (Показать)</string>
-    <string name="details_ms">%1$02d:%2$02d</string>
-    <string name="details_hms">%1$02d:%2$02d:%3$02d</string>
     <string name="movie_view_label">Видеоплеер</string>
     <string name="loading_video">Загрузка видео</string>
     <string name="resume_playing_title">Возобновить видео</string>
@@ -32,13 +30,10 @@
     <string name="duration">Длительность</string>
     <string name="file_size">Размер файла</string>
     <string name="video_encrypt">Кодировать</string>
-    <string name="video_popupplay">PIP</string>
     <string name="video_more">Больше</string>
     <string name="video_lock">Заблокировать</string>
     <string name="video_unlock">Разблокировать</string>
     <string name="video_replay">Воспроизвести на</string>
-    <string name="video_dolby">Dolby Digital Plus</string>
-    <string name="video_dts">DTS</string>
     <string name="video_details">Детали</string>
     <string name="video_timer">Таймер</string>
     <string name="video_timer_off">Выкл.</string>

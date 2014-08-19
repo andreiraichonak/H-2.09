@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="numeric_date_format">EEEE/ dd/MMMM/yyyy</string>
-    <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
     <string name="hello">Благодарим Вас за использование смартфона nubia! Приложение Мастер установки поможет запустить Ваше устройство.</string>
     <string name="app_name">Мастер установки</string>
-	<string name="reg_url_back">http://10.204.79.125:8080/zuid-server/user/userOperate.zte</string>
     <string name="setupwizard_wellcome_nubia">Благодарим Вас за использование смартфона nubia!</string>
-	<string name="reg_url">http://ucserver.v5.ztemt.com.cn/user/userOperate.zte</string>
     <string name="setupwizard_account_nubia">Аккаунт nubia</string>
-    <string name="secretKey">fh4n6zw1se07a12hi4esi3bi2yknd1ny</string>
-    <string name="appKey">45200348</string>
     <string name="ok">OK</string>
     <string name="zsetupwizard">" Мастер установки"</string>
     <string name="setupwizard_free_create_account_1_nubia">Установки аккаунт-записи nubia Вы можете:</string>
@@ -29,7 +23,7 @@
     <string name="wellcome_nubia">Вас приветствует</string>
     <string name="wellcome_nubia_style2">Благодарим Вас за использование смартфона nubia!</string>
     <string name="zsetupwizard_phone">телефон</string>
-    <string name="zsetupwizard_show_info">Завершить начальную настройку смартфона...</string>
+    <string name="zsetupwizard_show_info">Нажмите 'Завершить' для окончания настройки смартфона...</string>
     <string name="start">Завершить</string>
     <string name="set_data_and_time">Дата и время</string>
     <string name="set_date_and_time">Дата и время</string>
@@ -55,10 +49,7 @@
     <string name="time_picker_title">Время</string>
     <string name="lock_settings_picker_title">Выбрать экран блокировки</string>
     <string name="date_and_time">Дата &amp; настройки времени</string>
-    <string name="date_time_12_hour_sample">1:00 pm</string>
-    <string name="date_time_24_hour_sample">13:00</string>
     <string name="choose_timezone">Выбрать часовой пояс</string>
-    <string name="default_date_format">EEEE/ДД/ММММ/ГГГГ</string>
     <string name="infoWizard">Это мастер установки nubia, вы можете инициировать устройство прямо здесь. Удачи!</string>
     <string name="languageSetting">Выберите язык</string>
     <string name="inputmethodSetting">Выберите язык ввода</string>

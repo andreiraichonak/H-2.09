@@ -113,7 +113,6 @@
     <string name="opp_noti_title">Bluetooth передача</string>
     <string name="opp_noti_rate_inbound">Получение: ХХХХ/S</string>
     <string name="opp_noti_rate_outbound">Отправка: ХХХХ/S</string>
-    <string name="opp_noti_file">%1$s  %2$5s</string>
     <string name="opp_incoming_file_confirm_content">"
 \"%1$s\" хочет послать Вам %2$s (%3$s).
 "</string>
@@ -129,7 +128,6 @@
     <string name="defaultname">Автомобильный комплект</string>
     <string name="unknownName">Неизвестное имя</string>
     <string name="localPhoneName">Мое название</string>
-    <string name="defaultnumber">000000</string>
     <string name="hello">Hello, World! (проверка связи)</string>
     <string name="app_name">Передача по Bluetooth</string>
     <string name="insert_record">Вставить запись</string>
@@ -150,5 +148,4 @@
     <string name="map_defaultname">Автомобильный комплект</string>
     <string name="map_unknownName">Без названия</string>
     <string name="map_localPhoneName">Мое название</string>
-    <string name="map_defaultnumber">000000</string>
 </resources>
